@@ -85,6 +85,6 @@ Neste projeto, utilizei o GitHub Copilot como apoio para:
 
 ### Vídeo do projeto em execução
 
-- [Link do vídeo será adicionado depois da gravação]
+- (./video/video_minora.mp4)
 
 ---
